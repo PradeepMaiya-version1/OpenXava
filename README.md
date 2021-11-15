@@ -1,2 +1,2 @@
 # OpenXava
-This repository consists of Discovery tool POC code done using OpenXava framework
+> This repository consists of all the codes that built using OpenXava for creating Discovery tool. 
